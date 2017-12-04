@@ -1,7 +1,7 @@
 #ifndef ENV_HC
 #define ENV_HC
 
-// An environment mapping strings to Malvals
+// An environment mapping Strings to Malvals
 
 #include "GCCommon.HC"
 #include "Hashmap.HC"
